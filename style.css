@@ -79,6 +79,9 @@ body *{
     color: rgb(208, 240, 225);
     margin-bottom: 10px;
 }
+.txt-login > input{
+    color: white;
+}
 .txt-login > input::placeholder{
     color: white;
 }
