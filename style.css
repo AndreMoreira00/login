@@ -126,5 +126,6 @@ body *{
     }
     .card-login{
         width: 90%;
+        margin-top: 10px;
     }
 }
