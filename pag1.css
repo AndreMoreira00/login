@@ -1,0 +1,32 @@
+body{
+    margin: 0px;
+}
+.main{
+    width: 100vw;
+    height: 100vh;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    background-color: rgb(19, 19, 58);
+}
+.section-left{
+    width: 40vw;
+    height: 100vh;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+    color: rgb(0, 255, 123);
+    font-weight: 800;
+}
+.section-rigth{
+    width: 60vw;
+    height: 100vh;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.section-right > img{
+    width: 100%;
+    height: 100%;
+}
