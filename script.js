@@ -4,6 +4,6 @@ function login(){
     if (name == '' || pass == '') {
         alert('Preencha todos os dados!')
     } else{
-        window.open('pag1.html')
+        window.open('https://andremoreira00.github.io/login/pag1.html')
     }
 }
