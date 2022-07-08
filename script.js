@@ -4,6 +4,6 @@ function login(){
     if (name == '' || pass == '') {
         alert('Preencha todos os dados!')
     } else{
-        window.open('http://127.0.0.1:5500/pag1.html')
+        window.open('pag1.html')
     }
 }
