@@ -183,6 +183,7 @@ h3 {
         width: auto;
         height: auto;
         display: flex;
+        padding: 30px;
     }
     .section-right > img {
         padding: 0px;
