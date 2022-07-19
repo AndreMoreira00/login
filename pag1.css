@@ -5,7 +5,8 @@ body {
   margin: 0px;
 }
 .title {
-  background-color: #212154;
+  background-color: #2c2c73;
+  box-shadow: -10px -10px 40px rgb(0, 0, 0);
 }
 .title > h1 {
   margin: 0px;
